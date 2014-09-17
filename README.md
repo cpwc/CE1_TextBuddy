@@ -1,2 +1,2 @@
-CS2103T | CE2: TextBuddy++
+CS2103T | CE1: TextBuddy
 =========
